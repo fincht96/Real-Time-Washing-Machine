@@ -1,0 +1,10 @@
+#ifndef MARK_SPACE_RATIO_H_INCLUDED
+#define MARK_SPACE_RATIO_H_INCLUDED
+
+
+
+#define MARK 0.65
+#define SPACE 0.35
+
+
+#endif // MARK_SPACE_RATIO_H_INCLUDED

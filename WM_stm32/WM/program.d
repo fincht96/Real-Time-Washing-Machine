@@ -1,0 +1,13 @@
+.\wm\program.o: Src\program.cpp
+.\wm\program.o: .\Inc\program.h
+.\wm\program.o: .\Inc\stage.h
+.\wm\program.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\wm\program.o: .\Inc\stage_type.h
+.\wm\program.o: .\Inc\stage_state.h
+.\wm\program.o: .\Inc\motor.h
+.\wm\program.o: .\Inc\pin_state.h
+.\wm\program.o: .\Inc\board.h
+.\wm\program.o: .\Inc\seven_segment_display.h
+.\wm\program.o: .\Inc\timer.h
+.\wm\program.o: .\Inc\program_state.h
+.\wm\program.o: .\Inc\stage_item.h

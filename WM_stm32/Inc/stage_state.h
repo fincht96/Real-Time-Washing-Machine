@@ -1,0 +1,13 @@
+#ifndef STAGE_STATE_H_INCLUDED
+#define STAGE_STATE_H_INCLUDED
+
+
+enum StageState
+{
+    STAGE_INCOMPLETE,
+    STAGE_FINISHED
+};
+
+
+
+#endif // STAGE_STATE_H_INCLUDED

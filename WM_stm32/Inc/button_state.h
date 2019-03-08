@@ -1,0 +1,10 @@
+#ifndef BUTTON_STATE_H_INCLUDED
+#define BUTTON_STATE_H_INCLUDED
+
+enum ButtonState
+{
+    PRESSED,
+    NOT_PRESSED
+};
+
+#endif // BUTTON_STATE_H_INCLUDED
